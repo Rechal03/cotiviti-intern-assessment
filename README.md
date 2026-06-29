@@ -22,14 +22,17 @@ Raw unstructured clinical text  →  Rule-Based Extraction  →  LLM Layer  → 
 | `APP.py` | Streamlit hybrid pipeline — rule-based + Ollama LLM + confidence scoring |
 | `clinical_extractor.py` | Pure rule-based NLP extractor — zero dependencies |
 | `report.docx` | Written report — definition, trends, opportunities, threats, recommendations |
-| `presentation.pptx` | Slide deck with speaker notes |
-| `demo_video.mp4` | Recorded presentation and live demo |
+| `presentation_.pptx` | Slide deck with speaker notes |
+| `PPT_Presentation.mp4` | Recorded slide presentation |
+| `live_demo.mp4` | Recorded live demo walkthrough |
 
 ---
 
-## Demo Video
+## Videos
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=L531ZY7CtPQ)
+▶️ [Presentation Video](https://www.youtube.com/watch?v=a_BhjobqNKQ)
+
+▶️ [Live Demo Video](https://www.youtube.com/watch?v=L531ZY7CtPQ)
 
 ---
 
