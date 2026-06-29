@@ -29,7 +29,7 @@ Raw unstructured clinical text  →  Rule-Based Extraction  →  LLM Layer  → 
 
 ## Demo Video
 
-▶️ [Watch on YouTube](YOUR_YOUTUBE_LINK_HERE)
+▶️ [Watch on YouTube](https://www.youtube.com/watch?v=L531ZY7CtPQ)
 
 ---
 
